@@ -1,0 +1,10 @@
+{
+  "acknowledgement_template": "ROLLOUT-ACK release={release_id} card=verified policy=2026-Q3",
+  "policy_version": "2026-Q3",
+  "required_fields": {
+    "Escalation route": "release-operations",
+    "Retention window": "18 months",
+    "Support tier": "maintained"
+  },
+  "required_heading": "Rollout readiness"
+}
